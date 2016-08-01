@@ -4,15 +4,17 @@
 3. [Interface](#interface)
   1. [Graphical User Interface](#gui)
   2. [Voice User Interface](#vui)
+4. [Team Members](#members)
 
 ## Introduction
 <div id='introduction'/>
-The [Spoken Wikipedia project](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Spoken_Wikipedia) unites volunteer readers of encyclopedic entries. Their recordings make encyclopedic knowledge accessible to persons who are unable to read (out of alexia, visual impairment, or because their sight is currently occupied, e. g. while driving). However, on Wikipedia, recordings are available as raw audio files that can only be consumed linearly, without the possibility for targeted navigation or search. We present a reading application which uses an alignment between the recording, text and article structure and which allows to navigate spoken articles, through a graphical or voice-based user interface (or a combination thereof).
+The [Spoken Wikipedia project](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Spoken_Wikipedia) unites volunteer readers of encyclopedic entries. Their recordings make encyclopedic knowledge accessible to persons who are unable to read (out of alexia, visual impairment, or because their sight is currently occupied, e. g. while driving). However, on Wikipedia, recordings are available as raw audio files that can  only be consumed linearly, without the possibility for targeted navigation or search. We present a reading application which uses an alignment between the recording, text and article structure and which allows to navigate spoken articles, through a graphical or voice-based user interface (or a combination thereof).
 
 Roughly a thousand articles for each of English, German and Dutch are available, each totalling around 300 hours of speech (with smaller amounts in another 25 languages). This data has recently been made accessible by [Köhn et al.](https://nats-www.informatik.uni-hamburg.de/SWC/) who automatically aligned the audio recordings to their respective article texts using speech recognition technology. Using these alignments, we are able to relate what parts of the article are spoken at any moment in the recordings.
 
 ## Installation
-<div id='installation'/>
+<div id='installation' />
+The Wikipediareader is written in Java 8 and uses [JavaFX-Framework](http://docs.oracle.com/javase/8/javase-clienttechnologies.htm). We are using wav (16 bit) as file format for audio. It might be possible that the Wikipediareader needs [Ogg Vorbis codecs](http://www.vorbis.com/) in some cases. **Attention:** In current version of the Wikipediabrowser you'll need an offline corpus. This corpus is in preparation / under construction and will be available soon.
 
 ## Interface
 <div id='interface'/>
@@ -36,3 +38,8 @@ paragraph/sentence” (or simply “repeat”),
 * “[go to] chapter/section/subsection N”,
 * “section name” to go to the named section,
 * “article name” to follow a link or search an article
+
+## Team Members
+<div id='members'</>
+* Marcel Rohde <2rohde@informatik.uni-hamburg.de>
+* Dr. Timo Baumann <baumann@informatik.uni-hamburg.de>

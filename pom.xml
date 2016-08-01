@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>wikipediabrowser</groupId>
+	<artifactId>wikipediabrowser</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.0</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+					<testSource>1.8</testSource>
+					<testTarget>1.8</testTarget>
+				</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifest>
+							<addClasspath>true</addClasspath>
+							<mainClass>fully.qualified.MainClass</mainClass>
+						</manifest>
+					</archive>
+					<descriptorRefs>
+						<descriptorRef>jar-with-dependencies</descriptorRef>
+					</descriptorRefs>
+				</configuration>
+				<executions>
+					<execution>
+						<id>make-my-jar-with-dependencies</id>
+						<phase>package</phase>
+						<goals>
+							<goal>single</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+
+		</plugins>
+	</build>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jsoup</groupId>
+			<artifactId>jsoup</artifactId>
+			<version>1.8.3</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.5</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>1.3.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.github.lkuza2</groupId>
+			<artifactId>java-speech-api</artifactId>
+			<version>cf0752bbcf27a8b310ec3064eb9b0a397c51426f</version>
+		</dependency>
+
+		<dependency>
+			<groupId>de.dfki.mary</groupId>
+			<artifactId>marytts-runtime</artifactId>
+			<version>5.2</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/marytts-runtime-5.2-SNAPSHOT-jar-with-dependencies.jar</systemPath>
+		</dependency>
+		<dependency>
+			<groupId>de.dfki.mary</groupId>
+			<artifactId>marytts-client</artifactId>
+			<version>5.2</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/marytts-client-5.2-SNAPSHOT-jar-with-dependencies.jar</systemPath>
+		</dependency>
+		<dependency>
+			<groupId>de.dfki.mary</groupId>
+			<artifactId>marytts-lang-de</artifactId>
+			<version>5.2</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/marytts-lang-de-5.2-SNAPSHOT.jar</systemPath>
+		</dependency>
+		<dependency>
+			<groupId>voice-bits3</groupId>
+			<artifactId>voice-bits3</artifactId>
+			<version>3-5.1</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/voice-bits3-5.1.jar</systemPath>
+		</dependency>
+<!--		<dependency>
+			<groupId>voice-cmu-slt</groupId>
+			<artifactId>voice-cmu-slt</artifactId>
+			<version>5.1</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/voice-cmu-slt-5.1.jar</systemPath>
+		</dependency> -->
+		<dependency>
+			<groupId>de.dfki.mary</groupId>
+			<artifactId>voice-cmu-slt-hsmm</artifactId>
+			<version>5.2</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/voice-cmu-slt-hsmm-5.2-SNAPSHOT.jar</systemPath>
+		</dependency>
+		<!--<dependency> <groupId>voice-bits3-hsmm</groupId> <artifactId>voice-bits3-hsmm</artifactId> 
+			<version>5.0-SNAPSHOT</version> <scope>system</scope> <systemPath>${basedir}/lib/voice-bits3-hsmm-5.0-SNAPSHOT.jar</systemPath> 
+			</dependency> <dependency> <groupId>xuggle</groupId> <artifactId>xuggle-xuggler</artifactId> 
+			<version>3.4.1012</version> <scope>system</scope> <systemPath>${basedir}/lib/xuggle-xuggler.jar</systemPath> 
+			</dependency> -->
+	</dependencies>
+	<!-- <dependencyManagement> <dependencies> <dependency> <groupId>de.dfki.mary</groupId> 
+		<artifactId>marytts</artifactId> <version>5.2-beta3</version> <scope>import</scope> 
+		<type>pom</type> </dependency> <dependency> <groupId>de.dfki.mary</groupId> 
+		<artifactId>marytts-runtime</artifactId> <version>5.2-beta3</version> <scope>import</scope> 
+		<type>pom</type> </dependency> </dependencies> </dependencyManagement> -->
+	<repositories>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
+<!--		<repository>
+			<id>bintray-marytts</id>
+			<url>https://dl.bintray.com/marytts/marytts</url>
+		</repository> -->
+		<repository>
+			<id>spring-milestones</id>
+			<url>http://repo.spring.io/libs-milestone/</url>
+		</repository>
+	</repositories>
+
+</project>

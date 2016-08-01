@@ -1,0 +1,418 @@
+{
+    "chunks": [
+        {
+            "end_word": 53,
+            "start_word": 0
+        }
+    ],
+    "sentences": [
+        {
+            "end_word": 13,
+            "start_word": 0
+        },
+        {
+            "end_word": 41,
+            "start_word": 13
+        },
+        {
+            "end_word": 47,
+            "start_word": 41
+        },
+        {
+            "end_word": 53,
+            "start_word": 47
+        }
+],
+    "raw": {
+        "normalized": ""
+    },
+    "words": [
+        {
+            "index": 0,
+            "original": "Sie ",
+            "start": 600,
+            "stop": 850,
+            "normalized": "Sie"
+        },
+        {
+            "index": 1,
+            "original": "h\u00f6ren ",
+            "start": 850,
+            "stop": 1280,
+            "normalized": "h\u00f6ren"
+        },
+        {
+            "index": 2,
+            "original": "den ",
+            "start": 1280,
+            "stop": 1450,
+            "normalized": "den"
+        },
+        {
+            "index": 3,
+            "original": "Artikel ",
+            "start": 1450,
+            "stop": 2050,
+            "normalized": "Artikel"
+        },
+        {
+            "index": 4,
+            "original": "Isar",
+            "start": 2210,
+            "stop": 2750,
+            "normalized": "Isar"
+        },
+        {
+            "index": 5,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 6,
+            "original": "aus ",
+            "start": 3220,
+            "stop": 3640,
+            "normalized": "aus"
+        },
+        {
+            "index": 7,
+            "original": "Wikipedia",
+            "start": 3640,
+            "stop": 4580,
+            "normalized": "Wikipedia"
+        },
+        {
+            "index": 8,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 9,
+            "original": "der ",
+            "start": 4580,
+            "stop": 4790,
+            "normalized": "der"
+        },
+        {
+            "index": 10,
+            "original": "freien ",
+            "start": 4790,
+            "stop": 5260,
+            "normalized": "freien"
+        },
+        {
+            "index": 11,
+            "original": "Enzyklop\u00e4die",
+            "start": 5260,
+            "stop": 6210,
+            "normalized": "Enzyklop\u00e4die"
+        },
+        {
+            "index": 12,
+            "original": ". ",
+            "normalized": ""
+        },
+        {
+            "index": 13,
+            "original": "Mit ",
+            "start": 6430,
+            "stop": 6610,
+            "normalized": "Mit"
+        },
+        {
+            "index": 14,
+            "original": "dem ",
+            "start": 6610,
+            "stop": 6740,
+            "normalized": "dem"
+        },
+        {
+            "index": 15,
+            "original": "Stand ",
+            "start": 6740,
+            "stop": 7080,
+            "normalized": "Stand"
+        },
+        {
+            "index": 16,
+            "original": "vom ",
+            "start": 7080,
+            "stop": 7350,
+            "normalized": "vom"
+        },
+        {
+            "index": 17,
+            "original": "Der ",
+            "start": 10040,
+            "stop": 11420,
+            "normalized": "Der"
+        },
+        {
+            "index": 18,
+            "original": "Inhalt ",
+            "start": 11420,
+            "stop": 11940,
+            "normalized": "Inhalt"
+        },
+        {
+            "index": 19,
+            "original": "steht ",
+            "start": 11970,
+            "stop": 12240,
+            "normalized": "steht"
+        },
+        {
+            "index": 20,
+            "original": "unter ",
+            "start": 12240,
+            "stop": 12480,
+            "normalized": "unter"
+        },
+        {
+            "index": 21,
+            "original": "der ",
+            "start": 12480,
+            "stop": 12600,
+            "normalized": "der"
+        },
+        {
+            "index": 22,
+            "original": "Lizenz ",
+            "start": 12600,
+            "stop": 13180,
+            "normalized": "Lizenz"
+        },
+        {
+            "index": 23,
+            "original": "Creative ",
+            "start": 13180,
+            "stop": 13880,
+            "normalized": "Creative"
+        },
+        {
+            "index": 24,
+            "original": "Commons ",
+            "start": 13880,
+            "stop": 14520,
+            "normalized": "Commons"
+        },
+        {
+            "index": 25,
+            "original": "Attribution ",
+            "start": 14760,
+            "stop": 15510,
+            "normalized": "Attribution"
+        },
+        {
+            "index": 26,
+            "original": "Share ",
+            "start": 15510,
+            "stop": 15930,
+            "normalized": "Share"
+        },
+        {
+            "index": 27,
+            "original": "Alike ",
+            "start": 15930,
+            "stop": 16140,
+            "normalized": "Alike"
+        },
+        {
+            "index": 28,
+            "original": "3 ",
+            "start": 16140,
+            "stop": 16420,
+            "normalized": "drei"
+        },
+        {
+            "index": 29,
+            "original": "Punkt ",
+            "start": 16420,
+            "stop": 16790,
+            "normalized": "Punkt"
+        },
+        {
+            "index": 30,
+            "original": "0 ",
+            "start": 16790,
+            "stop": 17010,
+            "normalized": "null"
+        },
+        {
+            "index": 31,
+            "original": "Unported ",
+            "start": 17300,
+            "stop": 17330,
+            "normalized": "Unported"
+        },
+        {
+            "index": 32,
+            "original": "und ",
+            "start": 18290,
+            "stop": 18510,
+            "normalized": "und"
+        },
+        {
+            "index": 33,
+            "original": "unter ",
+            "start": 18510,
+            "stop": 18720,
+            "normalized": "unter"
+        },
+        {
+            "index": 34,
+            "original": "der ",
+            "start": 18720,
+            "stop": 18880,
+            "normalized": "der"
+        },
+        {
+            "index": 35,
+            "original": "GNU ",
+            "normalized": "G N U"
+        },
+        {
+            "index": 36,
+            "original": "Lizenz ",
+            "start": 19160,
+            "stop": 19840,
+            "normalized": "Lizenz"
+        },
+        {
+            "index": 37,
+            "original": "f\u00fcr ",
+            "start": 19870,
+            "stop": 20130,
+            "normalized": "f\u00fcr"
+        },
+        {
+            "index": 38,
+            "original": "freie ",
+            "start": 20130,
+            "stop": 20710,
+            "normalized": "freie"
+        },
+        {
+            "index": 39,
+            "original": "Dokumentation",
+            "start": 20810,
+            "stop": 21780,
+            "normalized": "Dokumentation"
+        },
+        {
+            "index": 40,
+            "original": ". ",
+            "normalized": ""
+        },
+        {
+            "index": 41,
+            "original": "Hallo ",
+            "start": 23880,
+            "stop": 24030,
+            "normalized": "Hallo"
+        },
+        {
+            "index": 42,
+            "original": "ich ",
+            "start": 24030,
+            "stop": 25610,
+            "normalized": "ich"
+        },
+        {
+            "index": 43,
+            "original": "heiße ",
+            "start": 25610,
+            "stop": 26120,
+            "normalized": "heiße"
+        },
+        {
+            "index": 44,
+            "original": "Marcel ",
+            "start": 26120,
+            "stop": 26350,
+            "normalized": "Marcel"
+        },
+        {
+            "index": 45,
+            "original": ". ",
+            "start": 26980,
+            "stop": 27190,
+            "normalized": ""
+        },
+        {
+            "index": 45,
+            "original": "Ich ",
+            "start": 26980,
+            "stop": 27190,
+            "normalized": "Ich"
+        },
+        {
+            "index": 45,
+            "original": "bin ",
+            "start": 26980,
+            "stop": 27190,
+            "normalized": "bin"
+        },
+        {
+            "index": 45,
+            "original": "21 ",
+            "start": 26980,
+            "stop": 27190,
+            "normalized": "ein und zwanzig"
+        },
+        {
+            "index": 45,
+            "original": "Jahre ",
+            "start": 26980,
+            "stop": 27190,
+            "normalized": "Jahre"
+        },
+        {
+            "index": 45,
+            "original": ". ",
+            "start": 26980,
+            "stop": 27190,
+            "normalized": ""
+        },
+        {
+            "index": 47,
+            "original": "Wohnort ",
+            "start": 27190,
+            "stop": 27290,
+            "normalized": "Wohnort"
+        },
+        {
+            "index": 48,
+            "original": "Ich ",
+            "start": 27290,
+            "stop": 27630,
+            "normalized": "Ich"
+        },
+        {
+            "index": 49,
+            "original": "wohne ",
+            "start": 27630,
+            "stop": 27770,
+            "normalized": "wohne"
+        },
+        {
+            "index": 50,
+            "original": "in ",
+            "start": 27770,
+            "stop": 28450,
+            "normalized": "in"
+        },
+        {
+            "index": 51,
+            "original": "Hamburg",
+            "normalized": "Hamburg"
+        },
+        {
+            "index": 52,
+            "original": ".",
+            "start": 28560,
+            "stop": 29350,
+            "normalized": ""
+        }
+]
+}

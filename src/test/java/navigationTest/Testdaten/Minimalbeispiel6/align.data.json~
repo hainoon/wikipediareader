@@ -1,0 +1,258 @@
+{
+    "chunks": [
+        {
+            "end_word": 33,
+            "start_word": 0
+        }
+    ],
+     "sentences": [
+        {
+            "end_word": 31,
+            "start_word": 0
+        },
+        {
+            "end_word": 33,
+            "start_word": 31
+        }
+],
+    "raw": {
+        "normalized": "Sie\nh\u00f6ren\nden\nArtikel\nIsar\n\naus\nWikipedia\n\nder\nfreien\nEnzyklop\u00e4die\n\nMit\ndem\nStand\nvom\nDer\nInhalt\nsteht\nunter\nder\nLizenz\nCreative\nCommons\nAttribution\nShare\nAlike\ndrei\nPunkt\nnull\nUnported\nund\nunter\nder\nG N U\nLizenz\nf\u00fcr\nfreie\nDokumentation\n\nDie\nzwei Hundert f\u00fcnfundneunzig\nKilometer\nlange\nIsar\nist\nein\nFluss\nin\nTirol\n\n\u00d6sterreich\n\nund\nBayern\n\nDeutschland\n\n"
+    },
+     "words": [
+        {
+            "index": 0,
+            "original": "Die ",
+            "start": 251600,
+            "stop": 251990,
+            "normalized": "Die"
+        },
+        {
+            "index": 1,
+            "original": "Die ",
+            "start": 251600,
+            "stop": 251990,
+            "normalized": "Die"
+        },
+        {
+            "index": 2,
+            "original": "offiziell ",
+            "start": 251990,
+            "stop": 252670,
+            "normalized": "offiziell"
+        },
+        {
+            "index": 3,
+            "original": "als ",
+            "start": 252670,
+            "stop": 252950,
+            "normalized": "als"
+        },
+        {
+            "index": 4,
+            "original": "Isar-Ursprung ",
+            "start": 252950,
+            "stop": 253880,
+            "normalized": "Isar Ursprung"
+        },
+        {
+            "index": 5,
+            "original": "bezeichneten ",
+            "start": 253880,
+            "stop": 254500,
+            "normalized": "bezeichneten"
+        },
+        {
+            "index": 6,
+            "original": "Quellen ",
+            "start": 254500,
+            "stop": 255000,
+            "normalized": "Quellen"
+        },
+        {
+            "index": 7,
+            "original": "bzw. ",
+            "start": 255000,
+            "stop": 255760,
+            "normalized": "beziehungsweise"
+        },
+        {
+            "index": 8,
+            "original": "B\u00e4che ",
+            "start": 255760,
+            "stop": 256150,
+            "normalized": "B\u00e4che"
+        },
+        {
+            "index": 9,
+            "original": "befinden ",
+            "start": 256520,
+            "stop": 257000,
+            "normalized": "befinden"
+        },
+        {
+            "index": 10,
+            "original": "sich ",
+            "start": 257000,
+            "stop": 257200,
+            "normalized": "sich"
+        },
+        {
+            "index": 11,
+            "original": "im ",
+            "start": 257200,
+            "stop": 257360,
+            "normalized": "im"
+        },
+        {
+            "index": 12,
+            "original": "Hinterautal ",
+            "start": 257360,
+            "stop": 258480,
+            "normalized": "Hinterautal"
+        },
+        {
+            "index": 13,
+            "original": "zwischen ",
+            "start": 258480,
+            "stop": 259240,
+            "normalized": "zwischen"
+        },
+        {
+            "index": 14,
+            "original": "den ",
+            "start": 259240,
+            "stop": 259400,
+            "normalized": "den"
+        },
+        {
+            "index": 15,
+            "original": "beiden ",
+            "start": 259400,
+            "stop": 259800,
+            "normalized": "beiden"
+        },
+        {
+            "index": 16,
+            "original": "mittleren ",
+            "start": 259800,
+            "stop": 260280,
+            "normalized": "mittleren"
+        },
+        {
+            "index": 17,
+            "original": "Karwendelketten",
+            "start": 260280,
+            "stop": 261240,
+            "normalized": "Karwendelketten"
+        },
+        {
+            "index": 18,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 19,
+            "original": "der ",
+            "start": 261530,
+            "stop": 261740,
+            "normalized": "der"
+        },
+        {
+            "index": 20,
+            "original": "Gleirsch-Halltal-Kette ",
+            "start": 261740,
+            "stop": 263250,
+            "normalized": "Gleirsch Halltal Kette"
+        },
+        {
+            "index": 21,
+            "original": "im ",
+            "start": 263250,
+            "stop": 263420,
+            "normalized": "im"
+        },
+        {
+            "index": 22,
+            "original": "S\u00fcden ",
+            "normalized": "S\u00fcden"
+        },
+        {
+            "index": 23,
+            "original": "und ",
+            "start": 264240,
+            "stop": 264480,
+            "normalized": "und"
+        },
+        {
+            "index": 24,
+            "original": "der ",
+            "start": 264480,
+            "stop": 264590,
+            "normalized": "der"
+        },
+        {
+            "index": 25,
+            "original": "Hinterautal-Vomper-Kette ",
+            "start": 264590,
+            "stop": 266130,
+            "normalized": "Hinterautal Vomper Kette"
+        },
+        {
+            "index": 26,
+            "original": "im ",
+            "start": 266130,
+            "stop": 266260,
+            "normalized": "im"
+        },
+        {
+            "index": 538,
+            "original": "Norden",
+            "start": 266260,
+            "stop": 266730,
+            "normalized": "Norden"
+        },
+        {
+            "index": 27,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 540,
+            "original": "auf ",
+            "start": 267140,
+            "stop": 267350,
+            "normalized": "auf"
+        },
+        {
+            "index": 28,
+            "original": "1160 m ",
+            "start": 267350,
+            "stop": 269010,
+            "normalized": "ein Tausend ein Hundert sechzig Meter"
+        },
+        {
+            "index": 29,
+            "original": "\u00fc",
+            "start": 269010,
+            "stop": 269130,
+            "normalized": "\u00fc"
+        },
+        {
+            "index": 30,
+            "original": ". ",
+            "normalized": ""
+        },
+        {
+            "index": 31,
+            "original": "A.",
+            "start": 269130,
+            "stop": 269230,
+            "normalized": "Ans"
+        },
+        {
+            "index": 32,
+            "original": ". ",
+            "normalized": ""
+        }
+]
+}

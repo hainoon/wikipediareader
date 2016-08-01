@@ -1,0 +1,190 @@
+<p>
+ <sentence start_word="0" end_word="13">
+  <word index="0" start="600" stop="850" original="&quot;Sie &quot;" normalized="&quot;Sie&quot;" html="Die">
+   Sie 
+  </word>
+  <word index="1" start="850" stop="1280" original="&quot;hören &quot;" normalized="&quot;hören&quot;" html="Die">
+   hören 
+  </word>
+  <word index="2" start="1280" stop="1450" original="&quot;den &quot;" normalized="&quot;den&quot;" html="Die">
+   den 
+  </word>
+  <word index="3" start="1450" stop="2050" original="&quot;Artikel &quot;" normalized="&quot;Artikel&quot;" html="Die">
+   Artikel 
+  </word>
+  <word index="4" start="2210" stop="2750" original="&quot;Isar&quot;" normalized="&quot;Isar&quot;" html="Die">
+   Isar
+  </word>
+  <word index="5" start="-1" stop="-1" original="&quot;, &quot;" normalized="&quot;&quot;" html="Die">
+   , 
+  </word>
+  <word index="6" start="3220" stop="3640" original="&quot;aus &quot;" normalized="&quot;aus&quot;" html="Die">
+   aus 
+  </word>
+  <word index="7" start="3640" stop="4580" original="&quot;Wikipedia&quot;" normalized="&quot;Wikipedia&quot;" html="Die">
+   Wikipedia
+  </word>
+  <word index="8" start="-1" stop="-1" original="&quot;, &quot;" normalized="&quot;&quot;" html="Die">
+   , 
+  </word>
+  <word index="9" start="4580" stop="4790" original="&quot;der &quot;" normalized="&quot;der&quot;" html="Die">
+   der 
+  </word>
+  <word index="10" start="4790" stop="5260" original="&quot;freien &quot;" normalized="&quot;freien&quot;" html="Die">
+   freien 
+  </word>
+  <word index="11" start="5260" stop="6210" original="&quot;Enzyklopädie&quot;" normalized="&quot;Enzyklopädie&quot;" html="Die">
+   Enzyklopädie
+  </word>
+  <word index="12" start="-1" stop="-1" original="&quot;. &quot;" normalized="&quot;&quot;" html="Die">
+   . 
+  </word>
+ </sentence>
+ <sentence start_word="41" end_word="60">
+  <word index="13" start="6430" stop="6610" original="&quot;Mit &quot;" normalized="&quot;Mit&quot;" html="Die">
+   Mit 
+  </word>
+  <word index="14" start="6610" stop="6740" original="&quot;dem &quot;" normalized="&quot;dem&quot;" html="Die">
+   dem 
+  </word>
+  <word index="15" start="6740" stop="7080" original="&quot;Stand &quot;" normalized="&quot;Stand&quot;" html="Die">
+   Stand 
+  </word>
+  <word index="16" start="7080" stop="7350" original="&quot;vom &quot;" normalized="&quot;vom&quot;" html="Die">
+   vom 
+  </word>
+  <word index="17" start="10040" stop="11420" original="&quot;Der &quot;" normalized="&quot;Der&quot;" html="Die">
+   Der 
+  </word>
+  <word index="18" start="11420" stop="11940" original="&quot;Inhalt &quot;" normalized="&quot;Inhalt&quot;" html="Die">
+   Inhalt 
+  </word>
+  <word index="19" start="11970" stop="12240" original="&quot;steht &quot;" normalized="&quot;steht&quot;" html="Die">
+   steht 
+  </word>
+  <word index="20" start="12240" stop="12480" original="&quot;unter &quot;" normalized="&quot;unter&quot;" html="Die">
+   unter 
+  </word>
+  <word index="21" start="12480" stop="12600" original="&quot;der &quot;" normalized="&quot;der&quot;" html="Die">
+   der 
+  </word>
+  <word index="22" start="12600" stop="13180" original="&quot;Lizenz &quot;" normalized="&quot;Lizenz&quot;" html="Die">
+   Lizenz 
+  </word>
+  <word index="23" start="13180" stop="13880" original="&quot;Creative &quot;" normalized="&quot;Creative&quot;" html="Die">
+   Creative 
+  </word>
+  <word index="24" start="13880" stop="14520" original="&quot;Commons &quot;" normalized="&quot;Commons&quot;" html="Die">
+   Commons 
+  </word>
+  <word index="25" start="14760" stop="15510" original="&quot;Attribution &quot;" normalized="&quot;Attribution&quot;" html="Die">
+   Attribution 
+  </word>
+  <word index="26" start="15510" stop="15930" original="&quot;Share &quot;" normalized="&quot;Share&quot;" html="Die">
+   Share 
+  </word>
+  <word index="27" start="15930" stop="16140" original="&quot;Alike &quot;" normalized="&quot;Alike&quot;" html="Die">
+   Alike 
+  </word>
+  <word index="28" start="16140" stop="16420" original="&quot;3 &quot;" normalized="&quot;drei&quot;" html="Die">
+   3 
+  </word>
+  <word index="29" start="16420" stop="16790" original="&quot;Punkt &quot;" normalized="&quot;Punkt&quot;" html="Die">
+   Punkt 
+  </word>
+  <word index="30" start="16790" stop="17010" original="&quot;0 &quot;" normalized="&quot;null&quot;" html="Die">
+   0 
+  </word>
+  <word index="31" start="17300" stop="17330" original="&quot;Unported &quot;" normalized="&quot;Unported&quot;" html="Die">
+   Unported 
+  </word>
+  <word index="32" start="18290" stop="18510" original="&quot;und &quot;" normalized="&quot;und&quot;" html="Die">
+   und 
+  </word>
+  <word index="33" start="18510" stop="18720" original="&quot;unter &quot;" normalized="&quot;unter&quot;" html="Die">
+   unter 
+  </word>
+  <word index="34" start="18720" stop="18880" original="&quot;der &quot;" normalized="&quot;der&quot;" html="Die">
+   der 
+  </word>
+  <word index="35" start="-1" stop="-1" original="&quot;GNU &quot;" normalized="&quot;G N U&quot;" html="Die">
+   GNU 
+  </word>
+  <word index="36" start="19160" stop="19840" original="&quot;Lizenz &quot;" normalized="&quot;Lizenz&quot;" html="Die">
+   Lizenz 
+  </word>
+  <word index="37" start="19870" stop="20130" original="&quot;für &quot;" normalized="&quot;für&quot;" html="Die">
+   für 
+  </word>
+  <word index="38" start="20130" stop="20710" original="&quot;freie &quot;" normalized="&quot;freie&quot;" html="Die">
+   freie 
+  </word>
+  <word index="39" start="20810" stop="21780" original="&quot;Dokumentation&quot;" normalized="&quot;Dokumentation&quot;" html="Die">
+   Dokumentation
+  </word>
+  <word index="40" start="-1" stop="-1" original="&quot;. &quot;" normalized="&quot;&quot;" html="Die">
+   . 
+  </word>
+ </sentence>
+ <sentence start_word="41" end_word="60">
+  <word index="41" start="23880" stop="24030" original="&quot;Die &quot;" normalized="&quot;Die&quot;" html="Die">
+   Die 
+  </word>
+  <word index="42" start="24030" stop="25610" original="&quot;295 &quot;" normalized="&quot;zwei Hundert fünfundneunzig&quot;" html="295&nbsp;km">
+   295 
+  </word>
+  <word index="43" start="25610" stop="26120" original="&quot;km &quot;" normalized="&quot;Kilometer&quot;" html="lange">
+   km 
+  </word>
+  <word index="44" start="26120" stop="26350" original="&quot;lange &quot;" normalized="&quot;lange&quot;" html="lange">
+   lange 
+  </word>
+  <b>
+   <word index="45" start="26350" stop="26980" original="&quot;Isar &quot;" normalized="&quot;Isar&quot;" html="Isar">
+    Isar 
+   </word></b>
+  <word index="46" start="26980" stop="27190" original="&quot;ist &quot;" normalized="&quot;ist&quot;" html="ist">
+   ist 
+  </word>
+  <word index="47" start="27190" stop="27290" original="&quot;ein &quot;" normalized="&quot;ein&quot;" html="ein">
+   ein 
+  </word>
+  <a href="/wiki/Fluss" title="Fluss">
+   <word index="48" start="27290" stop="27630" original="&quot;Fluss &quot;" normalized="&quot;Fluss&quot;" html="Fluss">
+    Fluss 
+   </word></a>
+  <word index="49" start="27630" stop="27770" original="&quot;in &quot;" normalized="&quot;in&quot;" html="in">
+   in 
+  </word>
+  <a href="/wiki/Tirol_(Bundesland)" title="Tirol (Bundesland)">
+   <word index="50" start="27770" stop="28450" original="&quot;Tirol &quot;" normalized="&quot;Tirol&quot;" html="Tirol">
+    Tirol 
+   </word></a>
+  <word index="51" start="-1" stop="-1" original="&quot;(&quot;" normalized="&quot;&quot;" html="">
+   (
+  </word>
+  <a href="/wiki/%C3%96sterreich" title="Österreich">
+   <word index="52" start="28560" stop="29350" original="&quot;Österreich&quot;" normalized="&quot;Österreich&quot;" html="Österreich">
+    Österreich
+   </word></a>
+  <word index="53" start="-1" stop="-1" original="&quot;) &quot;" normalized="&quot;&quot;" html=")">
+   ) 
+  </word>
+  <word index="54" start="29670" stop="29960" original="&quot;und &quot;" normalized="&quot;und&quot;" html="und">
+   und 
+  </word>
+  <a href="/wiki/Bayern" title="Bayern">
+   <word index="55" start="29960" stop="30490" original="&quot;Bayern &quot;" normalized="&quot;Bayern&quot;" html="Bayern">
+    Bayern 
+   </word></a>
+  <word index="56" start="-1" stop="-1" original="&quot;(&quot;" normalized="&quot;&quot;" html="">
+   (
+  </word>
+  <a href="/wiki/Deutschland" title="Deutschland">
+   <word index="57" start="30700" stop="31380" original="&quot;Deutschland&quot;" normalized="&quot;Deutschland&quot;" html="Deutschland">
+    Deutschland
+   </word></a>
+  <word index="58" start="-1" stop="-1" original="&quot;)&quot;" normalized="&quot;&quot;" html=").">
+   )
+  </word>
+ </sentence></p>

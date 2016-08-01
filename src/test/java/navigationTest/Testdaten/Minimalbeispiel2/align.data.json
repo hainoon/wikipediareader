@@ -1,0 +1,1020 @@
+{
+    "chunks": [
+        {
+            "end_word": 60,
+            "start_word": 0
+        }
+    ],
+    "sentences": [
+        {
+            "end_word": 13,
+            "start_word": 0
+        },
+        {
+            "end_word": 41,
+            "start_word": 13
+        },
+        {
+            "end_word": 60,
+            "start_word": 41
+        },
+        {
+            "end_word": 115,
+            "start_word": 60
+        },
+        {
+            "end_word": 148,
+            "start_word": 115
+        }
+],
+    "raw": {
+        "normalized": "Sie\nh\u00f6ren\nden\nArtikel\nIsar\n\naus\nWikipedia\n\nder\nfreien\nEnzyklop\u00e4die\n\nMit\ndem\nStand\nvom\nDer\nInhalt\nsteht\nunter\nder\nLizenz\nCreative\nCommons\nAttribution\nShare\nAlike\ndrei\nPunkt\nnull\nUnported\nund\nunter\nder\nG N U\nLizenz\nf\u00fcr\nfreie\nDokumentation\n\nDie\nzwei Hundert f\u00fcnfundneunzig\nKilometer\nlange\nIsar\nist\nein\nFluss\nin\nTirol\n\n\u00d6sterreich\n\nund\nBayern\n\nDeutschland\n\n"
+    },
+    "words": [
+        {
+            "index": 0,
+            "original": "Sie ",
+            "start": 600,
+            "stop": 850,
+            "normalized": "Sie"
+        },
+        {
+            "index": 1,
+            "original": "h\u00f6ren ",
+            "start": 850,
+            "stop": 1280,
+            "normalized": "h\u00f6ren"
+        },
+        {
+            "index": 2,
+            "original": "den ",
+            "start": 1280,
+            "stop": 1450,
+            "normalized": "den"
+        },
+        {
+            "index": 3,
+            "original": "Artikel ",
+            "start": 1450,
+            "stop": 2050,
+            "normalized": "Artikel"
+        },
+        {
+            "index": 4,
+            "original": "Isar",
+            "start": 2210,
+            "stop": 2750,
+            "normalized": "Isar"
+        },
+        {
+            "index": 5,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 6,
+            "original": "aus ",
+            "start": 3220,
+            "stop": 3640,
+            "normalized": "aus"
+        },
+        {
+            "index": 7,
+            "original": "Wikipedia",
+            "start": 3640,
+            "stop": 4580,
+            "normalized": "Wikipedia"
+        },
+        {
+            "index": 8,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 9,
+            "original": "der ",
+            "start": 4580,
+            "stop": 4790,
+            "normalized": "der"
+        },
+        {
+            "index": 10,
+            "original": "freien ",
+            "start": 4790,
+            "stop": 5260,
+            "normalized": "freien"
+        },
+        {
+            "index": 11,
+            "original": "Enzyklop\u00e4die",
+            "start": 5260,
+            "stop": 6210,
+            "normalized": "Enzyklop\u00e4die"
+        },
+        {
+            "index": 12,
+            "original": ". ",
+            "normalized": ""
+        },
+        {
+            "index": 13,
+            "original": "Mit ",
+            "start": 6430,
+            "stop": 6610,
+            "normalized": "Mit"
+        },
+        {
+            "index": 14,
+            "original": "dem ",
+            "start": 6610,
+            "stop": 6740,
+            "normalized": "dem"
+        },
+        {
+            "index": 15,
+            "original": "Stand ",
+            "start": 6740,
+            "stop": 7080,
+            "normalized": "Stand"
+        },
+        {
+            "index": 16,
+            "original": "vom ",
+            "start": 7080,
+            "stop": 7350,
+            "normalized": "vom"
+        },
+        {
+            "index": 17,
+            "original": "Der ",
+            "start": 10040,
+            "stop": 11420,
+            "normalized": "Der"
+        },
+        {
+            "index": 18,
+            "original": "Inhalt ",
+            "start": 11420,
+            "stop": 11940,
+            "normalized": "Inhalt"
+        },
+        {
+            "index": 19,
+            "original": "steht ",
+            "start": 11970,
+            "stop": 12240,
+            "normalized": "steht"
+        },
+        {
+            "index": 20,
+            "original": "unter ",
+            "start": 12240,
+            "stop": 12480,
+            "normalized": "unter"
+        },
+        {
+            "index": 21,
+            "original": "der ",
+            "start": 12480,
+            "stop": 12600,
+            "normalized": "der"
+        },
+        {
+            "index": 22,
+            "original": "Lizenz ",
+            "start": 12600,
+            "stop": 13180,
+            "normalized": "Lizenz"
+        },
+        {
+            "index": 23,
+            "original": "Creative ",
+            "start": 13180,
+            "stop": 13880,
+            "normalized": "Creative"
+        },
+        {
+            "index": 24,
+            "original": "Commons ",
+            "start": 13880,
+            "stop": 14520,
+            "normalized": "Commons"
+        },
+        {
+            "index": 25,
+            "original": "Attribution ",
+            "start": 14760,
+            "stop": 15510,
+            "normalized": "Attribution"
+        },
+        {
+            "index": 26,
+            "original": "Share ",
+            "start": 15510,
+            "stop": 15930,
+            "normalized": "Share"
+        },
+        {
+            "index": 27,
+            "original": "Alike ",
+            "start": 15930,
+            "stop": 16140,
+            "normalized": "Alike"
+        },
+        {
+            "index": 28,
+            "original": "3 ",
+            "start": 16140,
+            "stop": 16420,
+            "normalized": "drei"
+        },
+        {
+            "index": 29,
+            "original": "Punkt ",
+            "start": 16420,
+            "stop": 16790,
+            "normalized": "Punkt"
+        },
+        {
+            "index": 30,
+            "original": "0 ",
+            "start": 16790,
+            "stop": 17010,
+            "normalized": "null"
+        },
+        {
+            "index": 31,
+            "original": "Unported ",
+            "start": 17300,
+            "stop": 17330,
+            "normalized": "Unported"
+        },
+        {
+            "index": 32,
+            "original": "und ",
+            "start": 18290,
+            "stop": 18510,
+            "normalized": "und"
+        },
+        {
+            "index": 33,
+            "original": "unter ",
+            "start": 18510,
+            "stop": 18720,
+            "normalized": "unter"
+        },
+        {
+            "index": 34,
+            "original": "der ",
+            "start": 18720,
+            "stop": 18880,
+            "normalized": "der"
+        },
+        {
+            "index": 35,
+            "original": "GNU ",
+            "normalized": "G N U"
+        },
+        {
+            "index": 36,
+            "original": "Lizenz ",
+            "start": 19160,
+            "stop": 19840,
+            "normalized": "Lizenz"
+        },
+        {
+            "index": 37,
+            "original": "f\u00fcr ",
+            "start": 19870,
+            "stop": 20130,
+            "normalized": "f\u00fcr"
+        },
+        {
+            "index": 38,
+            "original": "freie ",
+            "start": 20130,
+            "stop": 20710,
+            "normalized": "freie"
+        },
+        {
+            "index": 39,
+            "original": "Dokumentation",
+            "start": 20810,
+            "stop": 21780,
+            "normalized": "Dokumentation"
+        },
+        {
+            "index": 40,
+            "original": ". ",
+            "normalized": ""
+        },
+        {
+            "index": 41,
+            "original": "Die ",
+            "start": 23880,
+            "stop": 24030,
+            "normalized": "Die"
+        },
+        {
+            "index": 42,
+            "original": "295 ",
+            "start": 24030,
+            "stop": 25610,
+            "normalized": "zwei Hundert f\u00fcnfundneunzig"
+        },
+        {
+            "index": 43,
+            "original": "km ",
+            "start": 25610,
+            "stop": 26120,
+            "normalized": "Kilometer"
+        },
+        {
+            "index": 44,
+            "original": "lange ",
+            "start": 26120,
+            "stop": 26350,
+            "normalized": "lange"
+        },
+        {
+            "index": 45,
+            "original": "Isar ",
+            "start": 26350,
+            "stop": 26980,
+            "normalized": "Isar"
+        },
+        {
+            "index": 46,
+            "original": "ist ",
+            "start": 26980,
+            "stop": 27190,
+            "normalized": "ist"
+        },
+        {
+            "index": 47,
+            "original": "ein ",
+            "start": 27190,
+            "stop": 27290,
+            "normalized": "ein"
+        },
+        {
+            "index": 48,
+            "original": "Fluss ",
+            "start": 27290,
+            "stop": 27630,
+            "normalized": "Fluss"
+        },
+        {
+            "index": 49,
+            "original": "in ",
+            "start": 27630,
+            "stop": 27770,
+            "normalized": "in"
+        },
+        {
+            "index": 50,
+            "original": "Tirol ",
+            "start": 27770,
+            "stop": 28450,
+            "normalized": "Tirol"
+        },
+        {
+            "index": 51,
+            "original": "(",
+            "normalized": ""
+        },
+        {
+            "index": 52,
+            "original": "\u00d6sterreich",
+            "start": 28560,
+            "stop": 29350,
+            "normalized": "\u00d6sterreich"
+        },
+        {
+            "index": 53,
+            "original": ") ",
+            "normalized": ""
+        },
+        {
+            "index": 54,
+            "original": "und ",
+            "start": 29670,
+            "stop": 29960,
+            "normalized": "und"
+        },
+        {
+            "index": 55,
+            "original": "Bayern ",
+            "start": 29960,
+            "stop": 30490,
+            "normalized": "Bayern"
+        },
+        {
+            "index": 56,
+            "original": "(",
+            "normalized": ""
+        },
+        {
+            "index": 57,
+            "original": "Deutschland",
+            "start": 30700,
+            "stop": 31380,
+            "normalized": "Deutschland"
+        },
+        {
+            "index": 58,
+            "original": ")",
+            "normalized": ""
+        },
+        {
+            "index": 59,
+            "original": ". ",
+            "normalized": ""
+        },
+	{
+            "index": 60,
+            "original": "Sie ",
+            "start": 32630,
+            "stop": 32830,
+            "normalized": "Sie"
+        },
+        {
+            "index": 61,
+            "original": "entspringt ",
+            "start": 32830,
+            "stop": 33590,
+            "normalized": "entspringt"
+        },
+        {
+            "index": 62,
+            "original": "im ",
+            "normalized": "im"
+        },
+        {
+            "index": 63,
+            "original": "Tiroler ",
+            "start": 33620,
+            "stop": 34120,
+            "normalized": "Tiroler"
+        },
+        {
+            "index": 64,
+            "original": "Teil ",
+            "start": 34120,
+            "stop": 34540,
+            "normalized": "Teil"
+        },
+        {
+            "index": 65,
+            "original": "des ",
+            "start": 34540,
+            "stop": 34670,
+            "normalized": "des"
+        },
+        {
+            "index": 66,
+            "original": "Karwendels ",
+            "start": 34670,
+            "stop": 35610,
+            "normalized": "Karwendels"
+        },
+        {
+            "index": 67,
+            "original": "im ",
+            "start": 35610,
+            "stop": 35780,
+            "normalized": "im"
+        },
+        {
+            "index": 68,
+            "original": "Hinterautal",
+            "start": 35780,
+            "stop": 36850,
+            "normalized": "Hinterautal"
+        },
+        {
+            "index": 69,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 70,
+            "original": "flie\u00dft ",
+            "start": 37190,
+            "stop": 37700,
+            "normalized": "flie\u00dft"
+        },
+        {
+            "index": 71,
+            "original": "bei ",
+            "start": 37700,
+            "stop": 37790,
+            "normalized": "bei"
+        },
+        {
+            "index": 72,
+            "original": "der ",
+            "start": 37790,
+            "stop": 37950,
+            "normalized": "der"
+        },
+        {
+            "index": 73,
+            "original": "deutschen ",
+            "start": 37950,
+            "stop": 38370,
+            "normalized": "deutschen"
+        },
+        {
+            "index": 74,
+            "original": "Grenze ",
+            "start": 38370,
+            "stop": 38800,
+            "normalized": "Grenze"
+        },
+        {
+            "index": 75,
+            "original": "durch ",
+            "start": 38800,
+            "stop": 38980,
+            "normalized": "durch"
+        },
+        {
+            "index": 76,
+            "original": "Scharnitz ",
+            "start": 38980,
+            "stop": 39560,
+            "normalized": "Scharnitz"
+        },
+        {
+            "index": 77,
+            "original": "und ",
+            "start": 39560,
+            "stop": 39750,
+            "normalized": "und"
+        },
+        {
+            "index": 78,
+            "original": "Mittenwald ",
+            "start": 39750,
+            "stop": 40370,
+            "normalized": "Mittenwald"
+        },
+        {
+            "index": 79,
+            "original": "und ",
+            "start": 40750,
+            "stop": 40940,
+            "normalized": "und"
+        },
+        {
+            "index": 80,
+            "original": "im ",
+            "start": 40940,
+            "stop": 41060,
+            "normalized": "im"
+        },
+        {
+            "index": 81,
+            "original": "Unterlauf ",
+            "start": 41060,
+            "stop": 41660,
+            "normalized": "Unterlauf"
+        },
+        {
+            "index": 82,
+            "original": "durch ",
+            "start": 41660,
+            "stop": 41860,
+            "normalized": "durch"
+        },
+        {
+            "index": 83,
+            "original": "die ",
+            "start": 41860,
+            "stop": 41930,
+            "normalized": "die"
+        },
+        {
+            "index": 84,
+            "original": "St\u00e4dte ",
+            "start": 41930,
+            "stop": 42350,
+            "normalized": "St\u00e4dte"
+        },
+        {
+            "index": 85,
+            "original": "Bad ",
+            "start": 42350,
+            "stop": 42690,
+            "normalized": "Bad"
+        },
+        {
+            "index": 86,
+            "original": "T\u00f6lz",
+            "start": 42690,
+            "stop": 43300,
+            "normalized": "T\u00f6lz"
+        },
+        {
+            "index": 87,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 88,
+            "original": "Geretsried",
+            "start": 43550,
+            "stop": 44370,
+            "normalized": "Geretsried"
+        },
+        {
+            "index": 89,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 90,
+            "original": "M\u00fcnchen",
+            "start": 44840,
+            "stop": 45500,
+            "normalized": "M\u00fcnchen"
+        },
+        {
+            "index": 91,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 92,
+            "original": "Freising",
+            "start": 45810,
+            "stop": 46670,
+            "normalized": "Freising"
+        },
+        {
+            "index": 93,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 94,
+            "original": "Moosburg",
+            "start": 47050,
+            "stop": 47980,
+            "normalized": "Moosburg"
+        },
+        {
+            "index": 95,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 96,
+            "original": "Landshut",
+            "start": 48210,
+            "stop": 49140,
+            "normalized": "Landshut"
+        },
+        {
+            "index": 97,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 98,
+            "original": "Dingolfing",
+            "start": 49530,
+            "stop": 50390,
+            "normalized": "Dingolfing"
+        },
+        {
+            "index": 99,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 100,
+            "original": "Landau ",
+            "start": 50720,
+            "stop": 51240,
+            "normalized": "Landau"
+        },
+        {
+            "index": 101,
+            "original": "an ",
+            "start": 51240,
+            "stop": 51360,
+            "normalized": "an"
+        },
+        {
+            "index": 102,
+            "original": "der ",
+            "start": 51360,
+            "stop": 51500,
+            "normalized": "der"
+        },
+        {
+            "index": 103,
+            "original": "Isar ",
+            "start": 51500,
+            "stop": 52110,
+            "normalized": "Isar"
+        },
+        {
+            "index": 104,
+            "original": "sowie ",
+            "start": 52340,
+            "stop": 52710,
+            "normalized": "sowie"
+        },
+        {
+            "index": 105,
+            "original": "Plattling ",
+            "start": 52990,
+            "stop": 53020,
+            "normalized": "Plattling"
+        },
+        {
+            "index": 106,
+            "original": "und ",
+            "start": 53340,
+            "stop": 53590,
+            "normalized": "und"
+        },
+        {
+            "index": 107,
+            "original": "m\u00fcndet ",
+            "start": 53590,
+            "stop": 53940,
+            "normalized": "m\u00fcndet"
+        },
+        {
+            "index": 108,
+            "original": "gegen\u00fcber ",
+            "start": 53940,
+            "stop": 54520,
+            "normalized": "gegen\u00fcber"
+        },
+        {
+            "index": 109,
+            "original": "von ",
+            "start": 54520,
+            "stop": 54810,
+            "normalized": "von"
+        },
+        {
+            "index": 110,
+            "original": "Deggendorf ",
+            "start": 54810,
+            "stop": 55500,
+            "normalized": "Deggendorf"
+        },
+        {
+            "index": 111,
+            "original": "in ",
+            "start": 55620,
+            "stop": 55780,
+            "normalized": "in"
+        },
+        {
+            "index": 112,
+            "original": "die ",
+            "start": 55780,
+            "stop": 55910,
+            "normalized": "die"
+        },
+        {
+            "index": 113,
+            "original": "Donau",
+            "start": 55910,
+            "stop": 56380,
+            "normalized": "Donau"
+        },
+        {
+            "index": 114,
+            "original": ". ",
+            "normalized": ""
+        },
+        {
+            "index": 115,
+            "original": "Die ",
+            "start": 58160,
+            "stop": 58270,
+            "normalized": "Die"
+        },
+        {
+            "index": 116,
+            "original": "fr\u00fchere ",
+            "start": 58270,
+            "stop": 58780,
+            "normalized": "fr\u00fchere"
+        },
+        {
+            "index": 117,
+            "original": "Auspr\u00e4gung ",
+            "start": 58780,
+            "stop": 59430,
+            "normalized": "Auspr\u00e4gung"
+        },
+        {
+            "index": 118,
+            "original": "als ",
+            "start": 59430,
+            "stop": 59680,
+            "normalized": "als"
+        },
+        {
+            "index": 119,
+            "original": "typischer ",
+            "start": 59680,
+            "stop": 60140,
+            "normalized": "typischer"
+        },
+        {
+            "index": 120,
+            "original": "Gebirgs",
+            "start": 60140,
+            "stop": 60820,
+            "normalized": "Gebirgs"
+        },
+        {
+            "index": 121,
+            "original": "- ",
+            "normalized": ""
+        },
+        {
+            "index": 122,
+            "original": "und ",
+            "start": 60820,
+            "stop": 60990,
+            "normalized": "und"
+        },
+        {
+            "index": 123,
+            "original": "Voralpenfluss ",
+            "start": 60990,
+            "stop": 61840,
+            "normalized": "Voralpenfluss"
+        },
+        {
+            "index": 124,
+            "original": "mit ",
+            "start": 61840,
+            "stop": 62060,
+            "normalized": "mit"
+        },
+        {
+            "index": 125,
+            "original": "breitem",
+            "start": 62060,
+            "stop": 62770,
+            "normalized": "breitem"
+        },
+        {
+            "index": 126,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 127,
+            "original": "sich ",
+            "normalized": "sich"
+        },
+        {
+            "index": 128,
+            "original": "st\u00e4ndig ",
+            "start": 62960,
+            "stop": 63430,
+            "normalized": "st\u00e4ndig"
+        },
+        {
+            "index": 129,
+            "original": "verlagerndem ",
+            "start": 63430,
+            "stop": 64170,
+            "normalized": "verlagerndem"
+        },
+        {
+            "index": 130,
+            "original": "Flussbett",
+            "start": 64170,
+            "stop": 64820,
+            "normalized": "Flussbett"
+        },
+        {
+            "index": 131,
+            "original": ", ",
+            "normalized": ""
+        },
+        {
+            "index": 132,
+            "original": "ausgedehnten ",
+            "start": 65220,
+            "stop": 66190,
+            "normalized": "ausgedehnten"
+        },
+        {
+            "index": 133,
+            "original": "Schotterb\u00e4nken ",
+            "start": 66190,
+            "stop": 67040,
+            "normalized": "Schotterb\u00e4nken"
+        },
+        {
+            "index": 134,
+            "original": "und ",
+            "start": 67040,
+            "stop": 67200,
+            "normalized": "und"
+        },
+        {
+            "index": 135,
+            "original": "verzweigten ",
+            "start": 67200,
+            "stop": 67880,
+            "normalized": "verzweigten"
+        },
+        {
+            "index": 136,
+            "original": "Flussarmen ",
+            "start": 67880,
+            "stop": 68700,
+            "normalized": "Flussarmen"
+        },
+        {
+            "index": 137,
+            "original": "weist ",
+            "start": 69050,
+            "stop": 69480,
+            "normalized": "weist"
+        },
+        {
+            "index": 138,
+            "original": "sie ",
+            "start": 69480,
+            "stop": 69570,
+            "normalized": "sie"
+        },
+        {
+            "index": 139,
+            "original": "nur ",
+            "start": 69570,
+            "stop": 69750,
+            "normalized": "nur"
+        },
+        {
+            "index": 140,
+            "original": "noch ",
+            "start": 69750,
+            "stop": 69930,
+            "normalized": "noch"
+        },
+        {
+            "index": 141,
+            "original": "in ",
+            "start": 69930,
+            "stop": 70060,
+            "normalized": "in"
+        },
+        {
+            "index": 142,
+            "original": "einzelnen ",
+            "start": 70060,
+            "stop": 70620,
+            "normalized": "einzelnen"
+        },
+        {
+            "index": 143,
+            "original": "Bereichen ",
+            "start": 70620,
+            "stop": 71140,
+            "normalized": "Bereichen"
+        },
+        {
+            "index": 144,
+            "original": "des ",
+            "start": 71140,
+            "stop": 71350,
+            "normalized": "des"
+        },
+        {
+            "index": 145,
+            "original": "Oberlaufs ",
+            "start": 71350,
+            "stop": 72100,
+            "normalized": "Oberlaufs"
+        },
+        {
+            "index": 146,
+            "original": "auf",
+            "normalized": "auf"
+        },
+        {
+            "index": 147,
+            "original": ". ",
+            "normalized": ""
+        }
+
+]
+}

@@ -131,12 +131,12 @@ public class Gui_javafx implements Observer {
 	private Label artikelsuchelabel;
 	private Label wortsucheLabel;
 
-	private String indexText = "Index: \t";
-	private String zeitText = "Zeit: \t";
-	private String satzText = "Satz: \t";
-	private String absatzText = "Absatz: \t";
-	private String kapitelText = "Kapitel: \t";
-	private String wortText = "Wort: \t";
+	private String indexText = "index: \t";
+	private String zeitText = "time: \t";
+	private String satzText = "sentence: \t";
+	private String absatzText = "paragraph: \t";
+	private String kapitelText = "section: \t";
+	private String wortText = "word: \t";
 
 	// Parameter des Fensters allgemein
 	private int breite = 1100;
@@ -283,7 +283,7 @@ public class Gui_javafx implements Observer {
 		HBox.setHgrow(zeitSlider, Priority.ALWAYS);
 		zeitSlider.setMinWidth(50);
 		zeitSlider.setMaxWidth(Double.MAX_VALUE);
-		zeitSliderBox.getChildren().add(new Label("Zeit: \t"));
+		zeitSliderBox.getChildren().add(new Label("time: \t"));
 		zeitSliderBox.getChildren().add(zeitSlider);
 		// slider.getChildren().add(zeitSliderBox);
 
@@ -292,7 +292,7 @@ public class Gui_javafx implements Observer {
 		HBox.setHgrow(satzSlider, Priority.ALWAYS);
 		satzSlider.setMinWidth(50);
 		satzSlider.setMaxWidth(Double.MAX_VALUE);
-		satzSliderBox.getChildren().add(new Label("Satz: \t"));
+		satzSliderBox.getChildren().add(new Label("sentence: \t"));
 		satzSliderBox.getChildren().add(satzSlider);
 		// slider.getChildren().add(satzSliderBox);
 
@@ -301,7 +301,7 @@ public class Gui_javafx implements Observer {
 		HBox.setHgrow(absatzSlider, Priority.ALWAYS);
 		absatzSlider.setMinWidth(50);
 		absatzSlider.setMaxWidth(Double.MAX_VALUE);
-		absatzSliderBox.getChildren().add(new Label("Absatz: \t"));
+		absatzSliderBox.getChildren().add(new Label("paragraph: \t"));
 		absatzSliderBox.getChildren().add(absatzSlider);
 		// slider.getChildren().add(absatzSliderBox);
 
@@ -310,7 +310,7 @@ public class Gui_javafx implements Observer {
 		HBox.setHgrow(kapitelSlider, Priority.ALWAYS);
 		kapitelSlider.setMinWidth(50);
 		kapitelSlider.setMaxWidth(Double.MAX_VALUE);
-		kapitelSliderBox.getChildren().add(new Label("Kapitel: \t"));
+		kapitelSliderBox.getChildren().add(new Label("section: \t"));
 		kapitelSliderBox.getChildren().add(kapitelSlider);
 		// slider.getChildren().add(kapitelSliderBox);
 	}
@@ -472,14 +472,14 @@ public class Gui_javafx implements Observer {
 		skipVorSatzButton = new Button("", new ImageView(vorImage));
 		skipVorAbsatzButton = new Button("", new ImageView(vorImage));
 		skipVorIndexButton = new Button("", new ImageView(vorImage));
-		skipZurueckSatzAnfangButton = new Button("Anfang");
-		skipZurueckAbsatzAnfangButton = new Button("Anfang");
-		skipZurueckKapitelAnfangButton = new Button("Anfang");
-		skipZueruckArtikelAnfang = new Button("Anfang");
+		skipZurueckSatzAnfangButton = new Button("beginning");
+		skipZurueckAbsatzAnfangButton = new Button("beginning");
+		skipZurueckKapitelAnfangButton = new Button("beginning");
+		skipZueruckArtikelAnfang = new Button("beginning");
 		zusaetzlicheSteuerungButton = new Button("",
 				new ImageView(new Image(getClass().getResourceAsStream("Icons/PNG/mehr.png"))));
 		sprachbefehlButton = new Button("", new ImageView(spracheImage));
-		inhaltsverzeichnisVorlesenButton = new Button("Inhaltsverzeichnis");
+		inhaltsverzeichnisVorlesenButton = new Button("contents");
 		return buttongroesse;
 	}
 
@@ -516,7 +516,7 @@ public class Gui_javafx implements Observer {
 
 			inhaltsverzeichnisButton = new ArrayList<Button>();
 
-			inhalt.getChildren().add(new Label("Inhaltsverzeichnis:"));
+			inhalt.getChildren().add(new Label("table of content:"));
 			for (String s : inhaltsverzeichnis) {
 				Button b = new Button(s);
 				inhaltsverzeichnisButton.add(b);
@@ -560,7 +560,7 @@ public class Gui_javafx implements Observer {
 			linkliste = new VBox();
 			linklisteButtons = new ArrayList<Button>();
 
-			linkliste.getChildren().add(new Label("Links im Umfeld:"));
+			linkliste.getChildren().add(new Label("surrounding links:"));
 
 			for (String s : _p.getLinks()) {
 				Button b = new Button(s);
@@ -582,7 +582,7 @@ public class Gui_javafx implements Observer {
 		oben = new HBox();
 		// oben.setAlignment(Pos.CENTER);
 
-		wortsucheLabel = new Label("Suche nach Satz mit Wort: ");
+		wortsucheLabel = new Label("search for word: ");
 		sucheRueckwaertsButton = new Button("",
 				new ImageView(new Image(getClass().getResourceAsStream("Icons/PNG/arrow 2.png"))));
 		suchFeldWort = new TextField();
@@ -603,7 +603,7 @@ public class Gui_javafx implements Observer {
 		leer.setMinWidth(50);
 		oben.getChildren().add(leer);
 
-		artikelsuchelabel = new Label("Suche nach Artikel: ");
+		artikelsuchelabel = new Label("search for article: ");
 		oben.getChildren().add(artikelsuchelabel);
 		oben.getChildren().add(suchFeldArtikel);
 		oben.getChildren().add(artikelSuchenButton);

@@ -163,10 +163,10 @@ public class Controller extends Application implements Observer {
 
 	private void artikelEinstellungen() {
 		switch (_guiEinstellungen.getArtikel()) {
-		case AlleArtikel:
+		case All:
 			p.setErstellungErlaubt(true);
 			break;
-		case KorpusArtikel:
+		case OnlyCorpus:
 			p.setErstellungErlaubt(false);
 			break;
 		}
@@ -174,20 +174,20 @@ public class Controller extends Application implements Observer {
 
 	private void linkEinstellungen() {
 		switch (_guiEinstellungen.getLinks()) {
-		case LinksAnzeigen:
+		case DisplayLinks1:
 			_gui.setLinksanzeigen(true);
 			break;
-		case LinksNichtAnzeigen:
+		case DisplayLinks0:
 			_gui.setLinksanzeigen(false);
 			_gui.blendeArtikelSucheAus();
 			break;
 		}
 
 		switch (_guiEinstellungen.getLinksfolgen()) {
-		case LinksFolgen:
+		case FollowLinks1:
 			p.setArtikelwechsel(true);
 			break;
-		case LinksNichtFolgen:
+		case FollowLinks0:
 			p.setArtikelwechsel(false);
 			break;
 		}
@@ -195,13 +195,13 @@ public class Controller extends Application implements Observer {
 
 	private void inhaltsverzeichnisEinstellungen() {
 		switch (_guiEinstellungen.getInhaltsverzeichnis()) {
-		case InhaltsverzeichnisMitBezeichnern:
+		case Identifier1:
 			_gui.inhaltsverzeichnisAnzeigen(true);
 			break;
-		case InhaltsverzeichnisOhneBezeichner:
+		case Identifier0:
 			_gui.annonymisiereInhaltsverzeichnis();
 			break;
-		case KeinInhaltsverzeichnis:
+		case NoTableOfContent:
 			_gui.inhaltsverzeichnisAnzeigen(false);
 			break;
 		}
@@ -221,7 +221,7 @@ public class Controller extends Application implements Observer {
 			disableSprachfunktion();
 			p.stopAudio(true);
 			break;
-		case GuiVollstaendig:
+		case Complete:
 			_gui.setNormalModus();
 			break;
 		}

@@ -56,62 +56,62 @@ public class Gui_Einstellungen {
 		grid.setVgap(10);
 		grid.setPadding(new Insets(25, 25, 25, 25));
 
-		grid.add(new Label("Modus"), 0, 1);
+		grid.add(new Label("modus"), 0, 1);
 		modusAuswahl = new ComboBox<>();
-		modusAuswahl.getItems().addAll(VariablenGuiEinstellungen.GuiVollstaendig, VariablenGuiEinstellungen.GUI,
+		modusAuswahl.getItems().addAll(VariablenGuiEinstellungen.Complete, VariablenGuiEinstellungen.GUI,
 				VariablenGuiEinstellungen.VUI, VariablenGuiEinstellungen.WOZ);
 		modusAuswahl.setMinWidth(250);
 		modusAuswahl.getSelectionModel().select(0);
 		grid.add(modusAuswahl, 1, 1);
 
-		grid.add(new Label("Inhaltsverzeichnis"), 0, 2);
+		grid.add(new Label("table of contents"), 0, 2);
 		inhaltsverzeichnis = new ComboBox<>();
-		inhaltsverzeichnis.getItems().addAll(VariablenGuiEinstellungen.InhaltsverzeichnisMitBezeichnern,
-				VariablenGuiEinstellungen.InhaltsverzeichnisOhneBezeichner,
-				VariablenGuiEinstellungen.KeinInhaltsverzeichnis);
+		inhaltsverzeichnis.getItems().addAll(VariablenGuiEinstellungen.Identifier1,
+				VariablenGuiEinstellungen.Identifier0,
+				VariablenGuiEinstellungen.NoTableOfContent);
 		inhaltsverzeichnis.setMinWidth(250);
 		inhaltsverzeichnis.getSelectionModel().select(0);
 		grid.add(inhaltsverzeichnis, 1, 2);
 
-		grid.add(new Label("Links anzeigen"), 0, 3);
+		grid.add(new Label("show links"), 0, 3);
 		links = new ComboBox<>();
-		links.getItems().addAll(VariablenGuiEinstellungen.LinksAnzeigen, VariablenGuiEinstellungen.LinksNichtAnzeigen);
+		links.getItems().addAll(VariablenGuiEinstellungen.DisplayLinks1, VariablenGuiEinstellungen.DisplayLinks0);
 		links.setMinWidth(250);
 		links.getSelectionModel().select(0);
 		grid.add(links, 1, 3);
 
-		grid.add(new Label("Links folgen"), 0, 4);
+		grid.add(new Label("follow links"), 0, 4);
 		linksfolgen = new ComboBox<>();
-		linksfolgen.getItems().addAll(VariablenGuiEinstellungen.LinksFolgen,
-				VariablenGuiEinstellungen.LinksNichtFolgen);
+		linksfolgen.getItems().addAll(VariablenGuiEinstellungen.FollowLinks1,
+				VariablenGuiEinstellungen.FollowLinks0);
 		linksfolgen.setMinWidth(250);
 		linksfolgen.getSelectionModel().select(0);
 		grid.add(linksfolgen, 1, 4);
 
-		grid.add(new Label("Artikel"), 0, 5);
+		grid.add(new Label("article corpus"), 0, 5);
 		artikel = new ComboBox<>();
-		artikel.getItems().addAll(VariablenGuiEinstellungen.AlleArtikel, VariablenGuiEinstellungen.KorpusArtikel);
+		artikel.getItems().addAll(VariablenGuiEinstellungen.All, VariablenGuiEinstellungen.OnlyCorpus);
 		artikel.setMinWidth(250);
 		artikel.getSelectionModel().select(0);
 		grid.add(artikel, 1, 5);
 
-		grid.add(new Label("am Ende alles löschen"), 0, 6);
+		grid.add(new Label("delete article data"), 0, 6);
 		reset = new ComboBox<>();
 		reset.getItems().addAll(VariablenGuiEinstellungen.RESET0, VariablenGuiEinstellungen.RESET1);
 		reset.setMinWidth(250);
 		reset.getSelectionModel().select(0);
 		grid.add(reset, 1, 6);
 
-		grid.add(new Label("Startartikel"), 0, 7);
+		grid.add(new Label("article"), 0, 7);
 		startartikel = new ComboBox<>();
 		startartikel.getItems().addAll("Isar","Asphalt", "Berlin", "Bundestagswahlrecht", "Hanseat", "Zugspitze", "Accessibility");
 		startartikel.setMinWidth(250);
 		startartikel.getSelectionModel().select(0);
 		grid.add(startartikel, 1, 7);
 		
-		grid.add(new Label("Sprache Sprachsynthese"), 0, 8);
+		grid.add(new Label("article language"), 0, 8);
 		sprache = new ComboBox<>();
-		sprache.getItems().addAll(VariablenGuiEinstellungen.Deutsch, VariablenGuiEinstellungen.Englisch);
+		sprache.getItems().addAll(VariablenGuiEinstellungen.Deutsch, VariablenGuiEinstellungen.English);
 		sprache.setMinWidth(250);
 		sprache.getSelectionModel().select(0);
 		grid.add(sprache, 1, 8);

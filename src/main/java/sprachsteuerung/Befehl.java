@@ -245,6 +245,7 @@ public class Befehl {
 	 * @return _befehlAlsString Befehl
 	 */
 	public String getBefehlAlsString() {
+		// TODO zweiter String mit Interpretation
 		return _befehlAlsString;
 	}
 

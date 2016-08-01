@@ -8,6 +8,7 @@
 *voice*
 *.fuse_*
 */~lock.*
+/Sonstiges/
 /target/
 /align/
 /align_english/

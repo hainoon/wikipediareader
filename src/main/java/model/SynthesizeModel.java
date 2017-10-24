@@ -196,7 +196,7 @@ public class SynthesizeModel extends Observable {
 		if (language.equals("Deutsch")) {
 			System.out.println("Deutsch");
 			l = Locale.GERMAN;
-			voice = "bits3";
+			voice = "bits3-hsmm";
 		} else {
 			System.out.println("Englisch");
 			l = Locale.US;
